@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('jaimino', [
+angular.module('mrbarbera', [
   'ngCookies',
   'ngResource',
   'ngSanitize',
