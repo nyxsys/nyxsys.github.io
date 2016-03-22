@@ -1,5 +1,5 @@
 'use strict';
 
-angular.module('jaimino')
+angular.module('mrbarbera')
   .controller('HeaderCtrl', function ($scope) {
   });

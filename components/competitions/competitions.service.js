@@ -4,7 +4,7 @@
 
 'use strict';
 
-angular.module('jaimino')
+angular.module('mrbarbera')
   .factory('Competitions', function () {
     var competition = function(name, host, date, link, img, target){
         this.name = name;

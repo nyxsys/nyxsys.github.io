@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('jaimino')
+angular.module('mrbarbera')
   .controller('MainCtrl', function ($scope, $http) {
 
   });

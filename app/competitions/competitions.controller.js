@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('jaimino')
+angular.module('mrbarbera')
   .controller('CompetitionsCtrl', function ($scope, $http, Competitions) {
   	$scope.competitions = Competitions.getCompetitions();
   });

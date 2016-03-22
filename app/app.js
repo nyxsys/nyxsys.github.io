@@ -6,10 +6,8 @@ angular.module('jaimino', [
   'ngSanitize',
   'ui.router',
   'ui.bootstrap',
-  'chart.js',
   'angulartics',
-  'angulartics.google.analytics',
-  'firebase'
+  'angulartics.google.analytics'
   //'angulartics.google.analytics'
 ])
   .config(function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) {

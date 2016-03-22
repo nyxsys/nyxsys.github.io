@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('jaimino')
+angular.module('mrbarbera')
 .animation('.fadein', function() {
   return {
     enter : function(element, done) {

@@ -1,5 +1,5 @@
 
-angular.module('jaimino')
+angular.module('mrbarbera')
   .controller('TitleCtrl', function ($scope) {
     
   });

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('jaimino')
+angular.module('mrbarbera')
   .controller('ProjectsCtrl', function ($scope, $http, Projects) {
     
     //Get projects from projects factory

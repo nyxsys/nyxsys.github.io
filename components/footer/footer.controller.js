@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('jaimino')
+angular.module('mrbarbera')
   .controller('FooterCtrl', function ($scope, $location) {
     $scope.menu = [{
       'title': 'Home',
