@@ -1,5 +1,5 @@
 footer {
-    color: #fff;
+    /*color: #fff;*/
 }
 
 footer h3 {
@@ -8,7 +8,6 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 30px;
-    background-color: #2c3e50;
 }
 
 footer .footer-col {
@@ -17,7 +16,6 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
 }
 
 .btn-social {
@@ -72,6 +70,5 @@ footer .footer-below {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
-    background: #fff;
+    color: grey;
 }
